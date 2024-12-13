@@ -1,2 +1,2 @@
 # contadorviagem
-Counter
+contador
